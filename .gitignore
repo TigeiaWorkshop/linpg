@@ -1,4 +1,2 @@
 __pycache__/
-*pyd
 build/
-scr_pyx/*.c
